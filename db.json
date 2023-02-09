@@ -6,6 +6,29 @@
       "word": "Read",
       "word2": "Write",
       "word3": "Lead"
+    },
+    {
+      "id": 2,
+      "mean": "자다",
+      "word": "Wake Up",
+      "word2": "Sleep",
+      "word3": "Slow"
+    }
+  ],
+  "normal": [
+    {
+      "id": 1,
+      "mean": "균형",
+      "word": "blance",
+      "word2": "balance",
+      "word3": "twice"
+    },
+    {
+      "id": 2,
+      "mean": "습관",
+      "word": "hobby",
+      "word2": "factor",
+      "word3": "custom"
     }
   ]
 }
