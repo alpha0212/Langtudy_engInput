@@ -7,5 +7,14 @@
       "word2": "Write",
       "word3": "Lead"
     }
+  ],
+  "2": [
+    {
+      "id": 1,
+      "mean": "자다",
+      "word": "Wake Up",
+      "word2": "Sleep",
+      "word3": "Slow"
+    }
   ]
 }
