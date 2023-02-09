@@ -2,33 +2,79 @@
   "easy": [
     {
       "id": 1,
-      "mean": "읽다",
-      "word": "Read",
-      "word2": "Write",
-      "word3": "Lead"
+      "question": "`읽다`로 알맞은 영어의 뜻은?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Read"
+        },
+        {
+          "id": 2,
+          "option": "Write"
+        },
+        {
+          "id": 3,
+          "option": "Lead"
+        }
+      ],
+      "answer": 1
     },
     {
       "id": 2,
-      "mean": "자다",
-      "word": "Wake Up",
-      "word2": "Sleep",
-      "word3": "Slow"
-    }
-  ],
-  "normal": [
-    {
-      "id": 1,
-      "mean": "균형",
-      "word": "blance",
-      "word2": "balance",
-      "word3": "twice"
+      "question": "`자다`로 알맞은 영어의 뜻은?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Wake up"
+        },
+        {
+          "id": 2,
+          "option": "Sleep"
+        },
+        {
+          "id": 3,
+          "option": "Slow"
+        }
+      ],
+      "answer": 2
     },
     {
-      "id": 2,
-      "mean": "습관",
-      "word": "hobby",
-      "word2": "factor",
-      "word3": "custom"
+      "id": 3,
+      "question": "`균형`로 알맞은 영어의 뜻은?",
+      "options": [
+        {
+          "id": 1,
+          "option": "blance"
+        },
+        {
+          "id": 2,
+          "option": "balance"
+        },
+        {
+          "id": 3,
+          "option": "twice"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "`습관`로 알맞은 영어의 뜻은?",
+      "options": [
+        {
+          "id": 1,
+          "option": "hobby"
+        },
+        {
+          "id": 2,
+          "option": "factor"
+        },
+        {
+          "id": 3,
+          "option": "custom"
+        }
+      ],
+      "answer": 3
     }
   ]
 }
