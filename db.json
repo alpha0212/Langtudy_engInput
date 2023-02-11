@@ -17,7 +17,7 @@
           "option": "Lead"
         }
       ],
-      "answer": 1
+      "answer": "Read"
     },
     {
       "id": 2,
@@ -36,7 +36,7 @@
           "option": "Slow"
         }
       ],
-      "answer": 2
+      "answer": "Sleep"
     },
     {
       "id": 3,
@@ -55,7 +55,7 @@
           "option": "twice"
         }
       ],
-      "answer": 2
+      "answer": "balance"
     },
     {
       "id": 4,
@@ -74,7 +74,7 @@
           "option": "custom"
         }
       ],
-      "answer": 3
+      "answer": "custom"
     }
   ]
 }
