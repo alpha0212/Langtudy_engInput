@@ -2,154 +2,200 @@
   "easy": [
     {
       "id": 1,
-      "question": "`읽다`로 알맞은 영어의 뜻은?",
+      "question": "오늘 하루 어땠어?",
+      "info": "안부묻기",
+      "tip": "",
+      "sentence": "How ___ your day?",
       "options": [
         {
           "id": 1,
-          "option": "Read"
+          "option": "was"
         },
         {
           "id": 2,
-          "option": "Write"
+          "option": "is"
         },
         {
           "id": 3,
-          "option": "Lead"
+          "option": "were"
         }
       ],
-      "answer": "Read"
+      "answer": "was"
     },
     {
       "id": 2,
-      "question": "`자다`로 알맞은 영어의 뜻은?",
+      "question": "나는 차를 가지고 싶었어.",
+      "info": "과거시제",
+      "tip": "",
+      "sentence": "I ______ a car.",
       "options": [
         {
           "id": 1,
-          "option": "Wake up"
+          "option": "wanted"
         },
         {
           "id": 2,
-          "option": "Sleep"
+          "option": "needed"
         },
         {
           "id": 3,
-          "option": "Slow"
+          "option": "has"
         }
       ],
-      "answer": "Sleep"
+      "answer": "wanted"
     },
     {
       "id": 3,
-      "question": "`균형`로 알맞은 영어의 뜻은?",
+      "question": "그 여자는 점심을 원하지 않았어.",
+      "info": "과거시제",
+      "tip": "",
+      "sentence": "She ______ want lunch.",
       "options": [
         {
           "id": 1,
-          "option": "blance"
+          "option": "didn't"
         },
         {
           "id": 2,
-          "option": "balance"
+          "option": "doesn't"
         },
         {
           "id": 3,
-          "option": "twice"
+          "option": "don't"
         }
       ],
-      "answer": "balance"
+      "answer": "didn't"
     },
     {
       "id": 4,
-      "question": "`습관`로 알맞은 영어의 뜻은?",
+      "question": "나는 충분히 있어.",
+      "info": "수령사",
+      "tip": "",
+      "sentence": "I have ______",
       "options": [
         {
           "id": 1,
-          "option": "hobby"
+          "option": "many"
         },
         {
           "id": 2,
-          "option": "factor"
+          "option": "enough"
         },
         {
           "id": 3,
-          "option": "custom"
+          "option": "a lot of"
         }
       ],
-      "answer": "custom"
+      "answer": "enough"
+    },
+    {
+      "id": 5,
+      "question": "그 이야기 들어봤어?",
+      "info": "경험묻기",
+      "tip": "",
+      "sentence": "____ you heard of it?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Has"
+        },
+        {
+          "id": 2,
+          "option": "Have"
+        },
+        {
+          "id": 3,
+          "option": "How"
+        }
+      ],
+      "answer": "Have"
     }
   ],
   "normal": [
     {
       "id": 1,
-      "question": "`사실은`으로 알맞은 영어의 뜻은?",
+      "question": "너 물 얼마나 있어?",
+      "info": "수령사",
+      "tip": "",
+      "sentence": "How ____ water do you ____?",
       "options": [
         {
           "id": 1,
-          "option": "actually"
+          "option": "much, have"
         },
         {
           "id": 2,
-          "option": "always"
+          "option": "much, has"
         },
         {
           "id": 3,
-          "option": "truly"
+          "option": "many, have"
         }
       ],
-      "answer": "actually"
+      "answer": "much, have"
     },
     {
       "id": 2,
-      "question": "`왜냐하면`으로 알맞은 영어의 뜻은?",
+      "question": "나는 숙제가 조금 있어.",
+      "info": "수령사",
+      "tip": "",
+      "sentence": "I ____ a ______ homework.",
       "options": [
         {
           "id": 1,
-          "option": "so"
+          "option": "have, many"
         },
         {
           "id": 2,
-          "option": "careful"
+          "option": "have, little"
         },
         {
           "id": 3,
-          "option": "because"
+          "option": "little, have"
         }
       ],
-      "answer": "because"
+      "answer": "have, little"
     },
     {
       "id": 3,
-      "question": "`창피하다`로 알맞은 영어의 뜻은?",
+      "question": "너 어젯밤에 뭐 먹었어?",
+      "info": "과거시제",
+      "tip": "",
+      "sentence": "What ___ you eat ____ night?",
       "options": [
         {
           "id": 1,
-          "option": "embarrassed"
+          "option": "did, yesterday"
         },
         {
           "id": 2,
-          "option": "empty"
+          "option": "does, last"
         },
         {
           "id": 3,
-          "option": "electric"
+          "option": "did, last"
         }
       ],
-      "answer": "embarrassed"
+      "answer": "did, last"
     },
     {
       "id": 4,
-      "question": "`전기`로 알맞은 영어의 뜻은?",
+      "question": "나는 영어를 공부하고 싶어.",
+      "info": "to부정사",
+      "tip": "",
+      "sentence": "I want __ ____ English.",
       "options": [
         {
           "id": 1,
-          "option": "disturb"
+          "option": "to, study"
         },
         {
           "id": 2,
-          "option": "actually"
+          "option": "to, studying"
         },
         {
           "id": 3,
-          "option": "electric"
+          "option": "to, write"
         }
       ],
       "answer": "electric"
@@ -158,95 +204,107 @@
   "hard": [
     {
       "id": 1,
-      "question": "`~에 취약하다`로 알맞은 영어의 뜻은?",
+      "question": "우린 영화를 보기로 결정했어.",
+      "info": "to부정사",
+      "tip": "",
+      "sentence": "We _______ __ watch a movie.",
       "options": [
         {
           "id": 1,
-          "option": "triangle"
+          "option": "decided, to"
         },
         {
           "id": 2,
-          "option": "vulnerable"
+          "option": "choose, to"
         },
         {
           "id": 3,
-          "option": "destroy"
+          "option": "judged, to"
         },
         {
           "id": 4,
-          "option": "balance"
+          "option": "curried, to"
         }
       ],
-      "answer": "vulnerable"
+      "answer": "decided, to"
     },
     {
       "id": 2,
-      "question": "`어울리다`로 알맞은 영어의 뜻은?",
+      "question": "그녀는 요리하는 것을 안 좋아해.",
+      "info": "동명사",
+      "tip": "",
+      "sentence": "She ________ _______.",
       "options": [
         {
           "id": 1,
-          "option": "fit"
+          "option": "don't, cooking"
         },
         {
           "id": 2,
-          "option": "ripen"
+          "option": "dislikes, cook"
         },
         {
           "id": 3,
-          "option": "congregate"
+          "option": "dislikes, cooking"
         },
         {
           "id": 4,
-          "option": "sway"
+          "option": "dislikes, bake"
         }
       ],
-      "answer": "congregate"
+      "answer": "dislikes, cooking"
     },
     {
       "id": 3,
-      "question": "`되돌리다`로 알맞은 영어의 뜻은?",
+      "question": "당신에게 도움이 되기를 바랍니다.",
+      "info": "",
+      "tip": "",
+      "sentence": "I ____ you find this _______.",
       "options": [
         {
           "id": 1,
-          "option": "reverse"
+          "option": "hope, helpful"
         },
         {
           "id": 2,
-          "option": "empty"
+          "option": "hopeful, helping"
         },
         {
           "id": 3,
-          "option": "electric"
+          "option": "hobby, help me"
         },
         {
           "id": 4,
-          "option": "meditation"
+          "option": "hope, help"
         }
       ],
-      "answer": "reverse"
+      "answer": "hope, helpful"
     },
     {
       "id": 4,
-      "question": "`뿌리를 내리다`로 알맞은 영어의 뜻은?",
+      "question": "다음주 월요일에 새 슈퍼마켓이 문을 연다.",
+      "info": "예정된 일(공식적인 스케쥴)",
+      "tip": "",
+      "sentence": "The ___ supermarket _____ next ______.",
       "options": [
         {
           "id": 1,
-          "option": "by root"
+          "option": "before, closes, Monday"
         },
         {
           "id": 2,
-          "option": "down root"
+          "option": "new, close, Sunday"
         },
         {
           "id": 3,
-          "option": "from root"
+          "option": "new, open, Sunday"
         },
         {
           "id": 4,
-          "option": "take root"
+          "option": "new, opens, Monday"
         }
       ],
-      "answer": "take root"
+      "answer": "new, opens, Monday"
     }
   ]
 }
