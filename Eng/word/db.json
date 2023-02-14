@@ -2,33 +2,251 @@
   "easy": [
     {
       "id": 1,
-      "mean": "읽다",
-      "word": "Read",
-      "word2": "Write",
-      "word3": "Lead"
+      "question": "`읽다`로 알맞은 영어의 뜻은?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Read"
+        },
+        {
+          "id": 2,
+          "option": "Write"
+        },
+        {
+          "id": 3,
+          "option": "Lead"
+        }
+      ],
+      "answer": "Read"
     },
     {
       "id": 2,
-      "mean": "자다",
-      "word": "Wake Up",
-      "word2": "Sleep",
-      "word3": "Slow"
+      "question": "`자다`로 알맞은 영어의 뜻은?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Wake up"
+        },
+        {
+          "id": 2,
+          "option": "Sleep"
+        },
+        {
+          "id": 3,
+          "option": "Slow"
+        }
+      ],
+      "answer": "Sleep"
+    },
+    {
+      "id": 3,
+      "question": "`균형`로 알맞은 영어의 뜻은?",
+      "options": [
+        {
+          "id": 1,
+          "option": "blance"
+        },
+        {
+          "id": 2,
+          "option": "balance"
+        },
+        {
+          "id": 3,
+          "option": "twice"
+        }
+      ],
+      "answer": "balance"
+    },
+    {
+      "id": 4,
+      "question": "`습관`로 알맞은 영어의 뜻은?",
+      "options": [
+        {
+          "id": 1,
+          "option": "hobby"
+        },
+        {
+          "id": 2,
+          "option": "factor"
+        },
+        {
+          "id": 3,
+          "option": "custom"
+        }
+      ],
+      "answer": "custom"
     }
   ],
   "normal": [
     {
       "id": 1,
-      "mean": "균형",
-      "word": "blance",
-      "word2": "balance",
-      "word3": "twice"
+      "question": "`사실은`으로 알맞은 영어의 뜻은?",
+      "options": [
+        {
+          "id": 1,
+          "option": "actually"
+        },
+        {
+          "id": 2,
+          "option": "always"
+        },
+        {
+          "id": 3,
+          "option": "truly"
+        }
+      ],
+      "answer": "actually"
     },
     {
       "id": 2,
-      "mean": "습관",
-      "word": "hobby",
-      "word2": "factor",
-      "word3": "custom"
+      "question": "`왜냐하면`으로 알맞은 영어의 뜻은?",
+      "options": [
+        {
+          "id": 1,
+          "option": "so"
+        },
+        {
+          "id": 2,
+          "option": "careful"
+        },
+        {
+          "id": 3,
+          "option": "because"
+        }
+      ],
+      "answer": "because"
+    },
+    {
+      "id": 3,
+      "question": "`창피하다`로 알맞은 영어의 뜻은?",
+      "options": [
+        {
+          "id": 1,
+          "option": "embarrassed"
+        },
+        {
+          "id": 2,
+          "option": "empty"
+        },
+        {
+          "id": 3,
+          "option": "electric"
+        }
+      ],
+      "answer": "embarrassed"
+    },
+    {
+      "id": 4,
+      "question": "`전기`로 알맞은 영어의 뜻은?",
+      "options": [
+        {
+          "id": 1,
+          "option": "disturb"
+        },
+        {
+          "id": 2,
+          "option": "actually"
+        },
+        {
+          "id": 3,
+          "option": "electric"
+        }
+      ],
+      "answer": "electric"
+    }
+  ],
+  "hard": [
+    {
+      "id": 1,
+      "question": "`~에 취약하다`로 알맞은 영어의 뜻은?",
+      "options": [
+        {
+          "id": 1,
+          "option": "triangle"
+        },
+        {
+          "id": 2,
+          "option": "vulnerable"
+        },
+        {
+          "id": 3,
+          "option": "destroy"
+        },
+        {
+          "id": 4,
+          "option": "balance"
+        }
+      ],
+      "answer": "vulnerable"
+    },
+    {
+      "id": 2,
+      "question": "`어울리다`로 알맞은 영어의 뜻은?",
+      "options": [
+        {
+          "id": 1,
+          "option": "fit"
+        },
+        {
+          "id": 2,
+          "option": "ripen"
+        },
+        {
+          "id": 3,
+          "option": "congregate"
+        },
+        {
+          "id": 4,
+          "option": "sway"
+        }
+      ],
+      "answer": "congregate"
+    },
+    {
+      "id": 3,
+      "question": "`되돌리다`로 알맞은 영어의 뜻은?",
+      "options": [
+        {
+          "id": 1,
+          "option": "reverse"
+        },
+        {
+          "id": 2,
+          "option": "empty"
+        },
+        {
+          "id": 3,
+          "option": "electric"
+        },
+        {
+          "id": 4,
+          "option": "meditation"
+        }
+      ],
+      "answer": "reverse"
+    },
+    {
+      "id": 4,
+      "question": "`뿌리를 내리다`로 알맞은 영어의 뜻은?",
+      "options": [
+        {
+          "id": 1,
+          "option": "by root"
+        },
+        {
+          "id": 2,
+          "option": "down root"
+        },
+        {
+          "id": 3,
+          "option": "from root"
+        },
+        {
+          "id": 4,
+          "option": "take root"
+        }
+      ],
+      "answer": "take root"
     }
   ]
 }

@@ -1,0 +1,310 @@
+{
+  "easy": [
+    {
+      "id": 1,
+      "question": "오늘 하루 어땠어?",
+      "info": "안부묻기",
+      "tip": "",
+      "sentence": "How ___ your day?",
+      "options": [
+        {
+          "id": 1,
+          "option": "was"
+        },
+        {
+          "id": 2,
+          "option": "is"
+        },
+        {
+          "id": 3,
+          "option": "were"
+        }
+      ],
+      "answer": "was"
+    },
+    {
+      "id": 2,
+      "question": "나는 차를 가지고 싶었어.",
+      "info": "과거시제",
+      "tip": "",
+      "sentence": "I ______ a car.",
+      "options": [
+        {
+          "id": 1,
+          "option": "wanted"
+        },
+        {
+          "id": 2,
+          "option": "needed"
+        },
+        {
+          "id": 3,
+          "option": "has"
+        }
+      ],
+      "answer": "wanted"
+    },
+    {
+      "id": 3,
+      "question": "그 여자는 점심을 원하지 않았어.",
+      "info": "과거시제",
+      "tip": "",
+      "sentence": "She ______ want lunch.",
+      "options": [
+        {
+          "id": 1,
+          "option": "didn't"
+        },
+        {
+          "id": 2,
+          "option": "doesn't"
+        },
+        {
+          "id": 3,
+          "option": "don't"
+        }
+      ],
+      "answer": "didn't"
+    },
+    {
+      "id": 4,
+      "question": "나는 충분히 있어.",
+      "info": "수령사",
+      "tip": "",
+      "sentence": "I have ______",
+      "options": [
+        {
+          "id": 1,
+          "option": "many"
+        },
+        {
+          "id": 2,
+          "option": "enough"
+        },
+        {
+          "id": 3,
+          "option": "a lot of"
+        }
+      ],
+      "answer": "enough"
+    },
+    {
+      "id": 5,
+      "question": "그 이야기 들어봤어?",
+      "info": "경험묻기",
+      "tip": "",
+      "sentence": "____ you heard of it?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Has"
+        },
+        {
+          "id": 2,
+          "option": "Have"
+        },
+        {
+          "id": 3,
+          "option": "How"
+        }
+      ],
+      "answer": "Have"
+    }
+  ],
+  "normal": [
+    {
+      "id": 1,
+      "question": "너 물 얼마나 있어?",
+      "info": "수령사",
+      "tip": "",
+      "sentence": "How ____ water do you ____?",
+      "options": [
+        {
+          "id": 1,
+          "option": "much, have"
+        },
+        {
+          "id": 2,
+          "option": "much, has"
+        },
+        {
+          "id": 3,
+          "option": "many, have"
+        }
+      ],
+      "answer": "much, have"
+    },
+    {
+      "id": 2,
+      "question": "나는 숙제가 조금 있어.",
+      "info": "수령사",
+      "tip": "",
+      "sentence": "I ____ a ______ homework.",
+      "options": [
+        {
+          "id": 1,
+          "option": "have, many"
+        },
+        {
+          "id": 2,
+          "option": "have, little"
+        },
+        {
+          "id": 3,
+          "option": "little, have"
+        }
+      ],
+      "answer": "have, little"
+    },
+    {
+      "id": 3,
+      "question": "너 어젯밤에 뭐 먹었어?",
+      "info": "과거시제",
+      "tip": "",
+      "sentence": "What ___ you eat ____ night?",
+      "options": [
+        {
+          "id": 1,
+          "option": "did, yesterday"
+        },
+        {
+          "id": 2,
+          "option": "does, last"
+        },
+        {
+          "id": 3,
+          "option": "did, last"
+        }
+      ],
+      "answer": "did, last"
+    },
+    {
+      "id": 4,
+      "question": "나는 영어를 공부하고 싶어.",
+      "info": "to부정사",
+      "tip": "",
+      "sentence": "I want __ ____ English.",
+      "options": [
+        {
+          "id": 1,
+          "option": "to, study"
+        },
+        {
+          "id": 2,
+          "option": "to, studying"
+        },
+        {
+          "id": 3,
+          "option": "to, write"
+        }
+      ],
+      "answer": "electric"
+    }
+  ],
+  "hard": [
+    {
+      "id": 1,
+      "question": "우린 영화를 보기로 결정했어.",
+      "info": "to부정사",
+      "tip": "",
+      "sentence": "We _______ __ watch a movie.",
+      "options": [
+        {
+          "id": 1,
+          "option": "decided, to"
+        },
+        {
+          "id": 2,
+          "option": "choose, to"
+        },
+        {
+          "id": 3,
+          "option": "judged, to"
+        },
+        {
+          "id": 4,
+          "option": "curried, to"
+        }
+      ],
+      "answer": "decided, to"
+    },
+    {
+      "id": 2,
+      "question": "그녀는 요리하는 것을 안 좋아해.",
+      "info": "동명사",
+      "tip": "",
+      "sentence": "She ________ _______.",
+      "options": [
+        {
+          "id": 1,
+          "option": "don't, cooking"
+        },
+        {
+          "id": 2,
+          "option": "dislikes, cook"
+        },
+        {
+          "id": 3,
+          "option": "dislikes, cooking"
+        },
+        {
+          "id": 4,
+          "option": "dislikes, bake"
+        }
+      ],
+      "answer": "dislikes, cooking"
+    },
+    {
+      "id": 3,
+      "question": "당신에게 도움이 되기를 바랍니다.",
+      "info": "",
+      "tip": "",
+      "sentence": "I ____ you find this _______.",
+      "options": [
+        {
+          "id": 1,
+          "option": "hope, helpful"
+        },
+        {
+          "id": 2,
+          "option": "hopeful, helping"
+        },
+        {
+          "id": 3,
+          "option": "hobby, help me"
+        },
+        {
+          "id": 4,
+          "option": "hope, help"
+        }
+      ],
+      "answer": "hope, helpful"
+    },
+    {
+      "id": 4,
+      "question": "다음주 월요일에 새 슈퍼마켓이 문을 연다.",
+      "info": "예정된 일(공식적인 스케쥴)",
+      "tip": "",
+      "sentence": "The ___ supermarket _____ next ______.",
+      "options": [
+        {
+          "id": 1,
+          "option": "before, closes, Monday"
+        },
+        {
+          "id": 2,
+          "option": "new, close, Sunday"
+        },
+        {
+          "id": 3,
+          "option": "new, open, Sunday"
+        },
+        {
+          "id": 4,
+          "option": "new, opens, Monday"
+        }
+      ],
+      "answer": "new, opens, Monday"
+    }
+  ]
+}
