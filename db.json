@@ -32,5 +32,25 @@
       "sentence": "너 한국에서 언제 살았어?",
       "answer": "When did you live in Korea?"
     }
+  ],
+  "normal": [
+    {
+      "id": 1,
+      "question": "뜻에 맞게 작성해보세요.",
+      "info": "안부묻기",
+      "hint": "They ____ at the train _______.",
+      "sentence": "그들은 기차역에 있었어.",
+      "answer": "They were at the train station."
+    }
+  ],
+  "hard": [
+    {
+      "id": 1,
+      "question": "뜻에 맞게 작성해보세요.",
+      "info": "안부묻기",
+      "hint": "I ______ a cell phone case ___ Charles.",
+      "sentence": "나는 Charles를 위해 핸드폰 케이스를 샀어.",
+      "answer": "I bought a cell phone case for Charles."
+    }
   ]
 }
