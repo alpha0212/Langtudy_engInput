@@ -3,7 +3,6 @@
     {
       "id": 1,
       "question": "뜻에 맞게 작성해보세요.",
-      "info": "안부묻기",
       "hint": "Were you __ school?",
       "sentence": "너 학교에 있었어?",
       "answer": "Were you at school?"
@@ -11,7 +10,6 @@
     {
       "id": 2,
       "question": "뜻에 맞게 작성해보세요.",
-      "info": "안부묻기",
       "hint": "Please ____ me to the market.",
       "sentence": "나를 마트로 데려다 줘",
       "answer": "Please take me to the market."
@@ -19,7 +17,6 @@
     {
       "id": 3,
       "question": "뜻에 맞게 작성해보세요.",
-      "info": "안부묻기",
       "hint": "___'s your fav_____ movie stars?",
       "sentence": "너가 좋아하는 영화배우는 누구야?",
       "answer": "Who's your favorite movie stars?"
@@ -27,7 +24,6 @@
     {
       "id": 4,
       "question": "뜻에 맞게 작성해보세요.",
-      "info": "안부묻기",
       "hint": "____ did you ____ in Korea?",
       "sentence": "너 한국에서 언제 살았어?",
       "answer": "When did you live in Korea?"
@@ -37,7 +33,6 @@
     {
       "id": 1,
       "question": "뜻에 맞게 작성해보세요.",
-      "info": "안부묻기",
       "hint": "They ____ at the train _______.",
       "sentence": "그들은 기차역에 있었어.",
       "answer": "They were at the train station."
@@ -47,7 +42,6 @@
     {
       "id": 1,
       "question": "뜻에 맞게 작성해보세요.",
-      "info": "안부묻기",
       "hint": "I ______ a cell phone case ___ Charles.",
       "sentence": "나는 Charles를 위해 핸드폰 케이스를 샀어.",
       "answer": "I bought a cell phone case for Charles."
